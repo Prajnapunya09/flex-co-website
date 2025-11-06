@@ -1,4 +1,4 @@
-# Flex Co – Company Website
+#  Flex Co – Company Website
 
 This project is a responsive, multi-page website for **Flex Co**, a fictional technology company specializing in web development, IoT integration, and embedded systems. It is built using **HTML5** and **CSS3** with a modern, clean design.
 

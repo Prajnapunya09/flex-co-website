@@ -29,7 +29,7 @@ This project is a responsive, multi-page website for **Flex Co**, a fictional te
 
 ---
 
-##  Folder Structure
+## Folder Structure
 
 flex-co-website/
 ├── index.html

@@ -4,7 +4,7 @@ This project is a responsive, multi-page website for **Flex Co**, a fictional te
 
 ---
 
-##  Pages Included
+## Pages Included
 
 - **Home** (`index.html`) – Introduction and mission of the company  
 - **About** (`about.html`) – Company details, vision, and services  

@@ -12,7 +12,7 @@ This project is a responsive, multi-page website for **Flex Co**, a fictional te
 
 ---
 
-## Features
+## ✨ Features
 
 - Responsive design for desktop and mobile
 - Reusable header, footer, and logo on all pages

@@ -19,7 +19,6 @@ This project is a responsive, multi-page website for **Flex Co**, a fictional te
 - Clean and semantic HTML structure
 - CSS grid and flexbox for layout
 - 
-
 ---
 
 ## 🛠️Technologies Used

@@ -23,7 +23,7 @@ This project is a responsive, multi-page website for **Flex Co**, a fictional te
 
 ## 🛠️ Technologies Used
 
-- HTML5
+ - HTML5
 - CSS3
 
 ---
